@@ -58,7 +58,7 @@ if(isset($_POST) && isset($_POST['getstatus']) && $_POST['getstatus'] == 'Get St
 <html>
 <head>
 <meta charset="utf-8">
-<title>Berhampurs Municipal Corporation</title>
+<title>Berhampur Municipal Corporation</title>
 <link rel="icon" href="images/favicon.png" type="image/png">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
